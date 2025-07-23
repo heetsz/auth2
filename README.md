@@ -6,6 +6,8 @@ app.use(cors({
   origin: "https://frontend-lud5.onrender.com", // your frontend domain
   credentials: true, // optional: only if you're using cookies or authorization headers
 }));
+
+
 mongo db network to all
 
 frontend - 
